@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-size: 1em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif, Helvetica, sans-serif;
+    background: #f3e5d8;
+    position: absolute;
+
+    
+}
+
+/** ID **/ 
+
+#postagens{
+    width: 760px;
+    float: left;
+}
+
+#area-principal{
+    width: 920px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#tempo-preparo{
+    padding: 20px;
+    margin: 50px 20px 30px;
+    background: #fff7fc;
+    width: 300px;
+    display: inline-block;
+    text-align:left;
+    border-radius: 20px;
+}
+
+#cor-texto{
+    color:#6e3451;
+}
+
+#espaco{
+    padding-top: 50px;
+}
+
+
+
+/** Class **/ 
+
+.postagem{
+    width: 660px;
+    padding: 20px;
+    margin: 70px auto;
+    position: absolute;  
+    top: 50%;
+    left: 50%; 
+    background: white;
+    border-radius: 20px;
+
+}
+
+.ingredientes{
+  padding-left: 20px;
+}
+
+.imagem{
+    border-radius: 10px;
+    margin:20px;
+}
+
+
+
+/** Codigo **/
+
+h1{
+    padding: 10px 8px;
+    color: #824c42;
+}
+
+li{
+    padding-left: 3px;
+    
+}
+
+ul{
+    padding-left: 40px;
+    color: #8f443a;
+}
+
+p{
+    padding-left: 20px;
+}
+
+ol{
+   padding-left: 40px;
+}
+ 
+/**tabela final**/ 
+
+.cabecalho-tabela{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.tabela{
+    padding-left: 23px;
+    font-family: OCR A Std, monospace;
+    font-size: large;
+}
+
+.cor-tabela{
+    color: rgb(167, 41, 6);
+}
+
+#gramas1{
+    padding-left: 270px;
+}
+
+#gramas2{
+    padding-left: 230px;
+}
+
+#gramas3{
+    padding-left: 270px;
+}
+
+#gramas4{
+    padding-left: 50%;
+}
+
+#gramas1{
+    padding-left: 270px;
+}
